@@ -1,0 +1,20 @@
+{
+  "name": "cview_server",
+  "version": "1.0.0",
+  "description": "```shell\r npm install\r ```\r ### ~~编译(后续确定加入ts确定使用)~~ \r ```shell\r npm run build\r ```\r ### 运行\r ```shell\r npm run start\r ```\r ## 项目介绍\r ### 前端部分\r > 移步至前端部分进行查看\r ###",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-formidable": "^1.2.0",
+    "log4js": "^6.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

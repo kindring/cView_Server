@@ -1,0 +1,6 @@
+{
+  "postJsonLimit": "10mb",
+  "postUrlencodedLimit": "10mb",
+  "host": "0.0.0.0",
+  "port": 9191
+}
